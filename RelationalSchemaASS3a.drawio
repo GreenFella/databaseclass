@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T02:54:44.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Pi512FkipLJf5CW3JlQ6" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T02:56:25.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kCl8gmfeAa7TFGd_AAg4" version="24.2.1" type="github">
   <diagram name="Page-1" id="aelsDngfcK3fhKT3PhjA">
     <mxGraphModel dx="1974" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -507,43 +507,43 @@
         <mxCell id="sXXcfoAF_C9Qh14qKNiT-136" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-471" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-137" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-137" value="StaffSpecialisations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-351.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-138" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-138" value="Specialisations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-221.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-139" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-139" value="TherapyCentres" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="-91.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-140" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-140" value="CentresTherapyTypes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="28.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-141" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-141" value="TypesOfTherapy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="168.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-142" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-142" value="TherapyEquipmentRequired" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="298.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-143" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-143" value="Equipment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="428.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-144" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-144" value="EquipmentLocations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="578.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-145" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-145" value="Appointments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="738.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-146" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-146" value="Messages" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="888.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-147" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-147" value="ClientRecords" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1058.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-148" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-148" value="ClientAllergies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1228.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sXXcfoAF_C9Qh14qKNiT-149" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sXXcfoAF_C9Qh14qKNiT-149" value="Allergies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1388.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
